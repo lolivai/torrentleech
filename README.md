@@ -6,7 +6,7 @@
 # Please Leave A star And Fork this Repo and Follow my Github acc....
 # 🤖Telegram Torrent and Direct links Leecher 🔥
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lolivai/torrentleech) 
 ---
 
 # TorrentLeechX (a modified fork of TorrentLeechGdrive with Extra Features....)
